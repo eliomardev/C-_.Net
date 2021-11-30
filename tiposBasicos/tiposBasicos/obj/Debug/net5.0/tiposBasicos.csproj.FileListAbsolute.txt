@@ -1,0 +1,16 @@
+C:\Users\Europa\source\repos\tiposBasicos\tiposBasicos\bin\Debug\net5.0\tiposBasicos.exe
+C:\Users\Europa\source\repos\tiposBasicos\tiposBasicos\bin\Debug\net5.0\tiposBasicos.deps.json
+C:\Users\Europa\source\repos\tiposBasicos\tiposBasicos\bin\Debug\net5.0\tiposBasicos.runtimeconfig.json
+C:\Users\Europa\source\repos\tiposBasicos\tiposBasicos\bin\Debug\net5.0\tiposBasicos.runtimeconfig.dev.json
+C:\Users\Europa\source\repos\tiposBasicos\tiposBasicos\bin\Debug\net5.0\tiposBasicos.dll
+C:\Users\Europa\source\repos\tiposBasicos\tiposBasicos\bin\Debug\net5.0\ref\tiposBasicos.dll
+C:\Users\Europa\source\repos\tiposBasicos\tiposBasicos\bin\Debug\net5.0\tiposBasicos.pdb
+C:\Users\Europa\source\repos\tiposBasicos\tiposBasicos\obj\Debug\net5.0\tiposBasicos.csproj.AssemblyReference.cache
+C:\Users\Europa\source\repos\tiposBasicos\tiposBasicos\obj\Debug\net5.0\tiposBasicos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Europa\source\repos\tiposBasicos\tiposBasicos\obj\Debug\net5.0\tiposBasicos.AssemblyInfoInputs.cache
+C:\Users\Europa\source\repos\tiposBasicos\tiposBasicos\obj\Debug\net5.0\tiposBasicos.AssemblyInfo.cs
+C:\Users\Europa\source\repos\tiposBasicos\tiposBasicos\obj\Debug\net5.0\tiposBasicos.csproj.CoreCompileInputs.cache
+C:\Users\Europa\source\repos\tiposBasicos\tiposBasicos\obj\Debug\net5.0\tiposBasicos.dll
+C:\Users\Europa\source\repos\tiposBasicos\tiposBasicos\obj\Debug\net5.0\ref\tiposBasicos.dll
+C:\Users\Europa\source\repos\tiposBasicos\tiposBasicos\obj\Debug\net5.0\tiposBasicos.pdb
+C:\Users\Europa\source\repos\tiposBasicos\tiposBasicos\obj\Debug\net5.0\tiposBasicos.genruntimeconfig.cache

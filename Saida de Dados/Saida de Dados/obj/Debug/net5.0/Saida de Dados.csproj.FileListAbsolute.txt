@@ -1,0 +1,16 @@
+C:\Users\Europa\source\repos\Saida de Dados\Saida de Dados\bin\Debug\net5.0\Saida de Dados.exe
+C:\Users\Europa\source\repos\Saida de Dados\Saida de Dados\bin\Debug\net5.0\Saida de Dados.deps.json
+C:\Users\Europa\source\repos\Saida de Dados\Saida de Dados\bin\Debug\net5.0\Saida de Dados.runtimeconfig.json
+C:\Users\Europa\source\repos\Saida de Dados\Saida de Dados\bin\Debug\net5.0\Saida de Dados.runtimeconfig.dev.json
+C:\Users\Europa\source\repos\Saida de Dados\Saida de Dados\bin\Debug\net5.0\Saida de Dados.dll
+C:\Users\Europa\source\repos\Saida de Dados\Saida de Dados\bin\Debug\net5.0\ref\Saida de Dados.dll
+C:\Users\Europa\source\repos\Saida de Dados\Saida de Dados\bin\Debug\net5.0\Saida de Dados.pdb
+C:\Users\Europa\source\repos\Saida de Dados\Saida de Dados\obj\Debug\net5.0\Saida de Dados.csproj.AssemblyReference.cache
+C:\Users\Europa\source\repos\Saida de Dados\Saida de Dados\obj\Debug\net5.0\Saida de Dados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Europa\source\repos\Saida de Dados\Saida de Dados\obj\Debug\net5.0\Saida de Dados.AssemblyInfoInputs.cache
+C:\Users\Europa\source\repos\Saida de Dados\Saida de Dados\obj\Debug\net5.0\Saida de Dados.AssemblyInfo.cs
+C:\Users\Europa\source\repos\Saida de Dados\Saida de Dados\obj\Debug\net5.0\Saida de Dados.csproj.CoreCompileInputs.cache
+C:\Users\Europa\source\repos\Saida de Dados\Saida de Dados\obj\Debug\net5.0\Saida de Dados.dll
+C:\Users\Europa\source\repos\Saida de Dados\Saida de Dados\obj\Debug\net5.0\ref\Saida de Dados.dll
+C:\Users\Europa\source\repos\Saida de Dados\Saida de Dados\obj\Debug\net5.0\Saida de Dados.pdb
+C:\Users\Europa\source\repos\Saida de Dados\Saida de Dados\obj\Debug\net5.0\Saida de Dados.genruntimeconfig.cache
